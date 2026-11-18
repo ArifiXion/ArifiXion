@@ -33,10 +33,6 @@
   <img src="assets/terminal.svg" alt="Terminal: whoami, focus, status" width="100%" />
 </p>
 
-<p align="center">
-  <img src="assets/status.svg" alt="Open to collaboration. Indonesia, UTC+7. Frontend and full-stack. Learning in public." width="100%" />
-</p>
-
 > Building useful things and learning in public.
 
 Frontend-leaning engineer who turns rough ideas into clean, fast, usable interfaces, and connects them to solid backends when a project needs it.
