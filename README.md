@@ -62,20 +62,20 @@ flowchart LR
     F -.-> A
 ```
 
-| 🚢 Ship small | 🎨 Care about UI | 📖 Stay readable |
-|:---:|:---:|:---:|
-| Small releases beat big plans | Spacing, type, and states matter | Code others can pick up fast |
+<p align="center">
+  <img src="assets/cards.svg" alt="Principles: ship small, care about UI, stay readable" width="100%" />
+</p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
 ## 🛠️ Core toolkit
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=arifixion&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion stack visual" />
+  <img src="assets/orbit.svg" alt="Animated orbit of technologies" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,figma,vscode&theme=dark&perline=6" alt="Tech icons" />
+  <img src="https://www.gitskins.com/api/section/stack?username=arifixion&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion stack visual" />
 </p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
