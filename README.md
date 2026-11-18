@@ -2,6 +2,8 @@
 
 <img src="assets/header.svg" alt="ArifiXion - Frontend and Full-Stack Engineer" width="100%" />
 
+<img src="assets/ticker.svg" alt="Ship small, learn in public, useful over flashy" width="100%" />
+
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=arifixion&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion hero visual" />
 </p>
@@ -31,6 +33,10 @@
 <img src="assets/divider.svg" alt="" width="100%" />
 
 ## 🧭 About me
+
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal: whoami, focus, status" width="100%" />
+</p>
 
 > Building useful things and learning in public.
 
@@ -115,3 +121,5 @@ flowchart LR
 </p>
 
 <p align="center"><sub>Open to collaboration, freelance, and interesting problems. ⚡</sub></p>
+
+<img src="assets/footer.svg" alt="" width="100%" />
