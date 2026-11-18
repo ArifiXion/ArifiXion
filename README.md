@@ -8,24 +8,19 @@
   <img src="https://www.gitskins.com/api/section/hero?username=arifixion&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion hero visual" />
 </p>
 
-<p>
-  <a href="https://github.com/arifixion"><img src="https://img.shields.io/badge/GitHub-arifixion-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <img src="https://img.shields.io/github/followers/arifixion?style=for-the-badge&logo=github&label=Followers&color=8b0000" alt="Followers" />
+<p align="center">
+  <img src="assets/badges.svg" alt="Open to collaboration. Indonesia, UTC+7. Frontend, web apps." width="100%" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-ff4444?style=flat-square" alt="Open to collaboration" />
-  <img src="https://img.shields.io/badge/Based_in-Indonesia-8b0000?style=flat-square" alt="Indonesia" />
-  <img src="https://img.shields.io/badge/Focus-Web_Apps-181717?style=flat-square" alt="Focus" />
+<p align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/%F0%9F%A7%AD%20ABOUT-8b0000?style=for-the-badge" alt="About" /></a>
+  <a href="#-how-i-build"><img src="https://img.shields.io/badge/%E2%9A%A1%20WORKFLOW-8b0000?style=for-the-badge" alt="Workflow" /></a>
+  <a href="#️-core-toolkit"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%20TOOLKIT-8b0000?style=for-the-badge" alt="Toolkit" /></a>
 </p>
-
-<p>
-  <a href="#-about-me">About</a> ·
-  <a href="#-how-i-build">Workflow</a> ·
-  <a href="#️-core-toolkit">Toolkit</a> ·
-  <a href="#-featured-projects">Projects</a> ·
-  <a href="#-activity">Activity</a> ·
-  <a href="#-lets-connect">Contact</a>
+<p align="center">
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20PROJECTS-8b0000?style=for-the-badge" alt="Projects" /></a>
+  <a href="#-activity"><img src="https://img.shields.io/badge/%F0%9F%93%8A%20ACTIVITY-8b0000?style=for-the-badge" alt="Activity" /></a>
+  <a href="#-lets-connect"><img src="https://img.shields.io/badge/%F0%9F%A4%9D%20CONTACT-8b0000?style=for-the-badge" alt="Contact" /></a>
 </p>
 
 </div>
@@ -36,6 +31,10 @@
 
 <p align="center">
   <img src="assets/terminal.svg" alt="Terminal: whoami, focus, status" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/status.svg" alt="Open to collaboration. Indonesia, UTC+7. Frontend and full-stack. Learning in public." width="100%" />
 </p>
 
 > Building useful things and learning in public.
@@ -118,6 +117,12 @@ flowchart LR
   <a href="https://github.com/arifixion"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-8b0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arifixion?tab=repositories">
+    <img src="assets/cta.svg" alt="Let's build something together" width="100%" />
+  </a>
 </p>
 
 <p align="center"><sub>Open to collaboration, freelance, and interesting problems. ⚡</sub></p>
