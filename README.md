@@ -115,12 +115,6 @@ flowchart LR
   <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/arifixion?tab=repositories">
-    <img src="assets/cta.svg" alt="Let's build something together" width="100%" />
-  </a>
-</p>
-
 <p align="center"><sub>Open to collaboration, freelance, and interesting problems. ⚡</sub></p>
 
 <img src="assets/footer.svg" alt="" width="100%" />
