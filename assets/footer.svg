@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" role="presentation">
   <defs>
     <linearGradient id="w1" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#0c4a6e" stop-opacity="0.9"/>
+      <stop offset="0" stop-color="#ff4444" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#8b0000" stop-opacity="0.9"/>
     </linearGradient>
     <linearGradient id="w2" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0c4a6e" stop-opacity="0.6"/>
-      <stop offset="1" stop-color="#0b1d33" stop-opacity="0.95"/>
+      <stop offset="0" stop-color="#8b0000" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#2a0606" stop-opacity="0.95"/>
     </linearGradient>
     <clipPath id="box"><rect width="900" height="130"/></clipPath>
   </defs>
