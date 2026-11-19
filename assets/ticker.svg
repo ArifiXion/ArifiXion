@@ -2,18 +2,18 @@
   <defs>
     <clipPath id="box"><rect width="900" height="44" rx="8"/></clipPath>
     <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0a0e1a"/>
-      <stop offset="1" stop-color="#0a0e1a" stop-opacity="0"/>
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0a0e1a" stop-opacity="0"/>
-      <stop offset="1" stop-color="#0a0e1a"/>
+      <stop offset="0" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0d1117"/>
     </linearGradient>
   </defs>
   <g clip-path="url(#box)">
-    <rect width="900" height="44" fill="#0a0e1a"/>
-    <rect width="900" height="44" fill="#0c4a6e" fill-opacity="0.18"/>
-    <g font-family="Consolas, Menlo, monospace" font-size="17" font-weight="700" fill="#38bdf8" letter-spacing="3">
+    <rect width="900" height="44" fill="#0d1117"/>
+    <rect width="900" height="44" fill="#8b0000" fill-opacity="0.18"/>
+    <g font-family="Consolas, Menlo, monospace" font-size="17" font-weight="700" fill="#ff4444" letter-spacing="3">
       <g>
         <text x="0" y="28" textLength="900" lengthAdjust="spacing">SHIP SMALL ✦ LEARN IN PUBLIC ✦ USEFUL &gt; FLASHY ✦ BUILD THINGS ✦</text>
         <text x="900" y="28" textLength="900" lengthAdjust="spacing">SHIP SMALL ✦ LEARN IN PUBLIC ✦ USEFUL &gt; FLASHY ✦ BUILD THINGS ✦</text>
@@ -23,5 +23,5 @@
     <rect width="70" height="44" fill="url(#fadeL)"/>
     <rect x="830" width="70" height="44" fill="url(#fadeR)"/>
   </g>
-  <rect x="0.5" y="0.5" width="899" height="43" rx="8" fill="none" stroke="#38bdf8" stroke-opacity="0.35"/>
+  <rect x="0.5" y="0.5" width="899" height="43" rx="8" fill="none" stroke="#ff4444" stroke-opacity="0.35"/>
 </svg>
