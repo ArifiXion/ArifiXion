@@ -41,14 +41,10 @@
   <img src="assets/know.svg" alt="Know about me: Aiman, Rekayasa Perangkat Lunak. 1 year 6 months of coding, 15 tech and tools." width="100%" />
 </p>
 
-Halo! Saya Aiman, pelajar SMK jurusan Rekayasa Perangkat Lunak (RPL) yang sudah mendalami dunia koding selama 1 tahun 6 bulan. Selama menempuh pendidikan di jurusan ini, saya mulai tertarik mendalami pembuatan website dan aplikasi, terutama menggunakan Java, HTML, CSS, JavaScript, dan PHP. Tujuan saya saat ini adalah terus belajar, memperbanyak latihan proyek, dan mempersiapkan diri untuk menjadi seorang Web Developer atau pembuat aplikasi yang andal di industri teknologi.
+Halo! Saya Aiman, pelajar SMK jurusan Rekayasa Perangkat Lunak (RPL) yang sudah mendalami dunia koding selama 1 tahun 6 bulan. Selama menempuh pendidikan di jurusan ini, saya mulai tertarik mendalami pembuatan website dan aplikasi, terutama menggunakan Java, HTML, CSS, JavaScript,PHP dan lain lain yang aku ingin coba. Tujuan saya saat ini adalah terus belajar, memperbanyak latihan proyek, dan mempersiapkan diri untuk menjadi seorang Web Developer atau pembuat aplikasi yang andal di industri teknologi.
 
 <p align="center">
   <img src="assets/skills.svg" alt="Java, HTML, CSS, JavaScript, PHP, Bootstrap, Tailwind, Laravel, React, Node.js, MySQL, Git, GitHub, VS Code, Figma" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/journey.svg" alt="Perjalanan: mulai koding, web dan aplikasi, latihan proyek, web developer" width="100%" />
 </p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
