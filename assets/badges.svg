@@ -1,40 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150" viewBox="0 0 600 150" role="img" aria-label="Open to collaboration. Indonesia, UTC+7. Frontend, web apps.">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44" role="img" aria-label="Ship small, learn in public, useful over flashy">
   <defs>
-    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b1220"/>
-      <stop offset="100%" stop-color="#0a0e1a"/>
+    <clipPath id="box"><rect width="900" height="44" rx="8"/></clipPath>
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="chipG" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b1c2e"/>
-      <stop offset="100%" stop-color="#0a0e1a"/>
+    <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0d1117"/>
     </linearGradient>
   </defs>
-
-  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
-    <!-- chip 1: availability -->
-    <rect x="60" y="8" width="480" height="58" rx="29" fill="url(#chipG)" stroke="#7dd3fc" stroke-opacity="0.5" stroke-width="2"/>
-    <rect x="60" y="8" width="480" height="58" rx="29" fill="none" stroke="#7dd3fc" stroke-width="3" stroke-dasharray="110 1000" stroke-linecap="round">
-      <animate attributeName="stroke-dashoffset" from="0" to="-1220" dur="5s" repeatCount="indefinite"/>
-    </rect>
-    <circle cx="108" cy="37" r="9" fill="#7dd3fc"/>
-    <circle cx="108" cy="37" r="9" fill="none" stroke="#7dd3fc" stroke-width="3">
-      <animate attributeName="r" values="9;24" dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.9;0" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <text x="142" y="46" font-size="24" font-weight="800" fill="#7dd3fc" letter-spacing="1.5">OPEN TO COLLABORATION</text>
-
-    <!-- chip 2: location -->
-    <rect x="12" y="84" width="280" height="54" rx="27" fill="url(#chip)" stroke="#38bdf8" stroke-opacity="0.45" stroke-width="2"/>
-    <rect x="12" y="84" width="280" height="54" rx="27" fill="none" stroke="#38bdf8" stroke-width="3" stroke-dasharray="90 1000" stroke-linecap="round">
-      <animate attributeName="stroke-dashoffset" from="0" to="-700" dur="5s" begin="-1.5s" repeatCount="indefinite"/>
-    </rect>
-    <text x="40" y="119" font-size="22" font-weight="700" fill="#ffffff"><tspan fill="#38bdf8">◉</tspan>  Indonesia · UTC+7</text>
-
-    <!-- chip 3: focus -->
-    <rect x="308" y="84" width="280" height="54" rx="27" fill="url(#chip)" stroke="#38bdf8" stroke-opacity="0.45" stroke-width="2"/>
-    <rect x="308" y="84" width="280" height="54" rx="27" fill="none" stroke="#38bdf8" stroke-width="3" stroke-dasharray="90 1000" stroke-linecap="round">
-      <animate attributeName="stroke-dashoffset" from="0" to="-700" dur="5s" begin="-3s" repeatCount="indefinite"/>
-    </rect>
-    <text x="336" y="119" font-size="22" font-weight="700" fill="#ffffff"><tspan fill="#38bdf8">◆</tspan>  Frontend · Web Apps</text>
+  <g clip-path="url(#box)">
+    <rect width="900" height="44" fill="#0d1117"/>
+    <rect width="900" height="44" fill="#8b0000" fill-opacity="0.18"/>
+    <g font-family="Consolas, Menlo, monospace" font-size="17" font-weight="700" fill="#ff4444" letter-spacing="3">
+      <g>
+        <text x="0" y="28" textLength="900" lengthAdjust="spacing">SHIP SMALL ✦ LEARN IN PUBLIC ✦ USEFUL &gt; FLASHY ✦ BUILD THINGS ✦</text>
+        <text x="900" y="28" textLength="900" lengthAdjust="spacing">SHIP SMALL ✦ LEARN IN PUBLIC ✦ USEFUL &gt; FLASHY ✦ BUILD THINGS ✦</text>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="22s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <rect width="70" height="44" fill="url(#fadeL)"/>
+    <rect x="830" width="70" height="44" fill="url(#fadeR)"/>
   </g>
+  <rect x="0.5" y="0.5" width="899" height="43" rx="8" fill="none" stroke="#ff4444" stroke-opacity="0.35"/>
 </svg>
