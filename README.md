@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="ArifiXion - Frontend and Full-Stack Engineer" width="100%" />
+<img src="assets/banner.gif" alt="ArifiXion - Frontend and Full-Stack Engineer" width="100%" />
 
 <img src="assets/ticker.svg" alt="Ship small, learn in public, useful over flashy" width="100%" />
 
