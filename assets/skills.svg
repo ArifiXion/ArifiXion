@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="430" viewBox="0 0 600 430" role="img" aria-label="Tech: Java, HTML, CSS, JavaScript, PHP, Bootstrap, Tailwind, Laravel, React, Node.js, MySQL, Git, GitHub, VS Code, Figma">
+  <defs>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1c1010"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <text x="300" y="26" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#ff6b6b" letter-spacing="4">TECH I'M LEARNING WITH</text>
+  <g font-family="Consolas, Menlo, monospace" text-anchor="middle">
+    <text x="16" y="62" text-anchor="start" font-size="13" font-weight="700" fill="#9da7b3" letter-spacing="3">LANGUAGES</text>
+    <rect x="16" y="67" width="568" height="1" fill="#ff4444" fill-opacity="0.25"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="16 82;16 76;16 82" dur="3s" begin="-0.00s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="34" font-weight="800" fill="#ff4444">J</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">Java</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-0.00s" repeatCount="indefinite"/></rect>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="132 82;132 76;132 82" dur="3s" begin="-0.45s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="28" font-weight="800" fill="#ff4444">&lt;/&gt;</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">HTML</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-0.45s" repeatCount="indefinite"/></rect>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="248 82;248 76;248 82" dur="3s" begin="-0.90s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="30" font-weight="800" fill="#ff4444">{ }</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">CSS</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-0.90s" repeatCount="indefinite"/></rect>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="364 82;364 76;364 82" dur="3s" begin="-1.35s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="34" font-weight="800" fill="#ff4444">JS</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">JavaScript</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-1.35s" repeatCount="indefinite"/></rect>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="480 82;480 76;480 82" dur="3s" begin="-1.80s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="34" font-weight="800" fill="#ff4444">php</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">PHP</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-1.80s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="16" y="187" text-anchor="start" font-size="13" font-weight="700" fill="#9da7b3" letter-spacing="3">FRAMEWORKS &amp; LIBRARIES</text>
+    <rect x="16" y="192" width="568" height="1" fill="#ff4444" fill-opacity="0.25"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="16 207;16 201;16 207" dur="3s" begin="-2.25s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="34" font-weight="800" fill="#ff4444">B</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">Bootstrap</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-2.25s" repeatCount="indefinite"/></rect>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="132 207;132 201;132 207" dur="3s" begin="-2.70s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="32" font-weight="800" fill="#ff4444">TW</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">Tailwind</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-2.70s" repeatCount="indefinite"/></rect>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="248 207;248 201;248 207" dur="3s" begin="-3.15s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="34" font-weight="800" fill="#ff4444">L</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">Laravel</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-3.15s" repeatCount="indefinite"/></rect>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="364 207;364 201;364 207" dur="3s" begin="-3.60s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="34" font-weight="800" fill="#ff4444">Re</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">React</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-3.60s" repeatCount="indefinite"/></rect>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="480 207;480 201;480 207" dur="3s" begin="-4.05s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="34" font-weight="800" fill="#ff4444">N</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">Node.js</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-4.05s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="16" y="312" text-anchor="start" font-size="13" font-weight="700" fill="#9da7b3" letter-spacing="3">TOOLS &amp; DATABASE</text>
+    <rect x="16" y="317" width="568" height="1" fill="#ff4444" fill-opacity="0.25"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="16 332;16 326;16 332" dur="3s" begin="-4.50s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="30" font-weight="800" fill="#ff4444">SQL</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">MySQL</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-4.50s" repeatCount="indefinite"/></rect>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="132 332;132 326;132 332" dur="3s" begin="-4.95s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="34" font-weight="800" fill="#ff4444">git</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">Git</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-4.95s" repeatCount="indefinite"/></rect>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="248 332;248 326;248 332" dur="3s" begin="-5.40s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="32" font-weight="800" fill="#ff4444">GH</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">GitHub</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-5.40s" repeatCount="indefinite"/></rect>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="364 332;364 326;364 332" dur="3s" begin="-5.85s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="34" font-weight="800" fill="#ff4444">VS</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">VS Code</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-5.85s" repeatCount="indefinite"/></rect>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="480 332;480 326;480 332" dur="3s" begin="-6.30s" repeatCount="indefinite"/>
+      <rect width="104" height="90" rx="16" fill="url(#chip)" stroke="#ff4444" stroke-opacity="0.45" stroke-width="2"/>
+      <text x="52" y="46" font-size="34" font-weight="800" fill="#ff4444">Fg</text>
+      <text x="52" y="72" font-size="14" font-weight="700" fill="#ffffff">Figma</text>
+      <rect x="22" y="80" width="60" height="3" rx="2" fill="#ff4444"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="-6.30s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+</svg>
+        
