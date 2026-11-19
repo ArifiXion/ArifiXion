@@ -14,11 +14,10 @@
 
 <p align="center">
   <a href="#-know-about-me"><img src="https://img.shields.io/badge/%F0%9F%A7%AD%20ABOUT-8b0000?style=for-the-badge" alt="About" /></a>
-  <a href="#-how-i-build"><img src="https://img.shields.io/badge/%E2%9A%A1%20WORKFLOW-8b0000?style=for-the-badge" alt="Workflow" /></a>
   <a href="#️-core-toolkit"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%20TOOLKIT-8b0000?style=for-the-badge" alt="Toolkit" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20PROJECTS-8b0000?style=for-the-badge" alt="Projects" /></a>
 </p>
 <p align="center">
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20PROJECTS-8b0000?style=for-the-badge" alt="Projects" /></a>
   <a href="#-activity"><img src="https://img.shields.io/badge/%F0%9F%93%8A%20ACTIVITY-8b0000?style=for-the-badge" alt="Activity" /></a>
   <a href="#-lets-connect"><img src="https://img.shields.io/badge/%F0%9F%A4%9D%20CONTACT-8b0000?style=for-the-badge" alt="Contact" /></a>
 </p>
@@ -45,25 +44,6 @@ Halo! Saya Aiman, pelajar SMK jurusan Rekayasa Perangkat Lunak (RPL) yang sudah 
 
 <p align="center">
   <img src="assets/skills.svg" alt="Java, HTML, CSS, JavaScript, PHP, Bootstrap, Tailwind, Laravel, React, Node.js, MySQL, Git, GitHub, VS Code, Figma" width="100%" />
-</p>
-
-<img src="assets/divider.svg" alt="" width="100%" />
-
-## ⚡ How I build
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#2a0a0a','primaryTextColor':'#ffffff','primaryBorderColor':'#ff4444','lineColor':'#ff4444','fontSize':'14px'}}}%%
-flowchart LR
-    A([💡 Idea]) --> B[🎨 Design the UI]
-    B --> C[⚙️ Build components]
-    C --> D[🔌 Connect data / API]
-    D --> E[🚀 Ship small]
-    E --> F[📈 Learn & iterate]
-    F -.-> A
-```
-
-<p align="center">
-  <img src="assets/cards.svg" alt="Principles: ship small, care about UI, stay readable" width="100%" />
 </p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
