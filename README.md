@@ -23,6 +23,14 @@
   <a href="#-lets-connect"><img src="https://img.shields.io/badge/%F0%9F%A4%9D%20CONTACT-8b0000?style=for-the-badge" alt="Contact" /></a>
 </p>
 
+<p align="center">
+  <img src="assets/visitors.svg" alt="Profile visitors" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arifixion&style=for-the-badge&label=TOTAL%20VISITS&color=ff4444&abbreviated=false" alt="Total profile visits" />
+</p>
+
 </div>
 
 <img src="assets/divider.svg" alt="" width="100%" />
