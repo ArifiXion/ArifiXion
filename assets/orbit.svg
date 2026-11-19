@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Animated orbit of technologies">
   <defs>
     <radialGradient id="core" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.9"/>
-      <stop offset="60%" stop-color="#0c4a6e" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#0c4a6e" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#ff4444" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#8b0000" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#8b0000" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="aura" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#ff4444" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ff4444" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
   <circle cx="300" cy="300" r="290" fill="url(#aura)"/>
 
-  <g fill="none" stroke="#38bdf8" stroke-opacity="0.3" stroke-dasharray="4 8">
+  <g fill="none" stroke="#ff4444" stroke-opacity="0.3" stroke-dasharray="4 8">
     <circle cx="300" cy="300" r="85"><animateTransform attributeName="transform" type="rotate" from="0 300 300" to="360 300 300" dur="60s" repeatCount="indefinite"/></circle>
     <circle cx="300" cy="300" r="155"><animateTransform attributeName="transform" type="rotate" from="360 300 300" to="0 300 300" dur="80s" repeatCount="indefinite"/></circle>
     <circle cx="300" cy="300" r="225"><animateTransform attributeName="transform" type="rotate" from="0 300 300" to="360 300 300" dur="100s" repeatCount="indefinite"/></circle>
@@ -29,44 +29,43 @@
     <!-- Ring 1 -->
     <g><animateTransform attributeName="transform" type="rotate" from="0 300 300" to="360 300 300" dur="18s" repeatCount="indefinite"/>
       <g transform="translate(385 300)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="18s" repeatCount="indefinite"/>
-        <circle r="33" fill="#0f1629" stroke="#38bdf8" stroke-width="2"/><text y="4.5">HTML</text></g></g></g>
+        <circle r="33" fill="#161b22" stroke="#ff4444" stroke-width="2"/><text y="4.5">HTML</text></g></g></g>
     <g><animateTransform attributeName="transform" type="rotate" from="120 300 300" to="480 300 300" dur="18s" repeatCount="indefinite"/>
       <g transform="translate(385 300)"><g><animateTransform attributeName="transform" type="rotate" from="-120 0 0" to="-480 0 0" dur="18s" repeatCount="indefinite"/>
-        <circle r="33" fill="#0f1629" stroke="#38bdf8" stroke-width="2"/><text y="4.5">CSS</text></g></g></g>
+        <circle r="33" fill="#161b22" stroke="#ff4444" stroke-width="2"/><text y="4.5">CSS</text></g></g></g>
     <g><animateTransform attributeName="transform" type="rotate" from="240 300 300" to="600 300 300" dur="18s" repeatCount="indefinite"/>
       <g transform="translate(385 300)"><g><animateTransform attributeName="transform" type="rotate" from="-240 0 0" to="-600 0 0" dur="18s" repeatCount="indefinite"/>
-        <circle r="33" fill="#0f1629" stroke="#38bdf8" stroke-width="2"/><text y="4.5">JS</text></g></g></g>
+        <circle r="33" fill="#161b22" stroke="#ff4444" stroke-width="2"/><text y="4.5">JS</text></g></g></g>
 
     <!-- Ring 2 (reverse) -->
     <g><animateTransform attributeName="transform" type="rotate" from="0 300 300" to="-360 300 300" dur="28s" repeatCount="indefinite"/>
       <g transform="translate(455 300)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="28s" repeatCount="indefinite"/>
-        <circle r="33" fill="#0f1629" stroke="#7dd3fc" stroke-width="2"/><text y="4.5">TS</text></g></g></g>
+        <circle r="33" fill="#161b22" stroke="#ff8888" stroke-width="2"/><text y="4.5">TS</text></g></g></g>
     <g><animateTransform attributeName="transform" type="rotate" from="72 300 300" to="-288 300 300" dur="28s" repeatCount="indefinite"/>
       <g transform="translate(455 300)"><g><animateTransform attributeName="transform" type="rotate" from="-72 0 0" to="288 0 0" dur="28s" repeatCount="indefinite"/>
-        <circle r="33" fill="#0f1629" stroke="#7dd3fc" stroke-width="2"/><text y="4.5">React</text></g></g></g>
+        <circle r="33" fill="#161b22" stroke="#ff8888" stroke-width="2"/><text y="4.5">React</text></g></g></g>
     <g><animateTransform attributeName="transform" type="rotate" from="144 300 300" to="-216 300 300" dur="28s" repeatCount="indefinite"/>
       <g transform="translate(455 300)"><g><animateTransform attributeName="transform" type="rotate" from="-144 0 0" to="216 0 0" dur="28s" repeatCount="indefinite"/>
-        <circle r="33" fill="#0f1629" stroke="#7dd3fc" stroke-width="2"/><text y="4.5">Next.js</text></g></g></g>
+        <circle r="33" fill="#161b22" stroke="#ff8888" stroke-width="2"/><text y="4.5">Next.js</text></g></g></g>
     <g><animateTransform attributeName="transform" type="rotate" from="216 300 300" to="-144 300 300" dur="28s" repeatCount="indefinite"/>
       <g transform="translate(455 300)"><g><animateTransform attributeName="transform" type="rotate" from="-216 0 0" to="144 0 0" dur="28s" repeatCount="indefinite"/>
-        <circle r="33" fill="#0f1629" stroke="#7dd3fc" stroke-width="2"/><text y="4.5">Node</text></g></g></g>
+        <circle r="33" fill="#161b22" stroke="#ff8888" stroke-width="2"/><text y="4.5">Node</text></g></g></g>
     <g><animateTransform attributeName="transform" type="rotate" from="288 300 300" to="-72 300 300" dur="28s" repeatCount="indefinite"/>
       <g transform="translate(455 300)"><g><animateTransform attributeName="transform" type="rotate" from="-288 0 0" to="72 0 0" dur="28s" repeatCount="indefinite"/>
-        <circle r="33" fill="#0f1629" stroke="#7dd3fc" stroke-width="2"/><text y="4.5">Git</text></g></g></g>
+        <circle r="33" fill="#161b22" stroke="#ff8888" stroke-width="2"/><text y="4.5">Git</text></g></g></g>
 
     <!-- Ring 3 -->
     <g><animateTransform attributeName="transform" type="rotate" from="0 300 300" to="360 300 300" dur="40s" repeatCount="indefinite"/>
       <g transform="translate(525 300)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="40s" repeatCount="indefinite"/>
-        <circle r="33" fill="#0f1629" stroke="#bae6fd" stroke-width="2"/><text y="4.5" font-size="11.5">Tailwind</text></g></g></g>
+        <circle r="33" fill="#161b22" stroke="#ffbbbb" stroke-width="2"/><text y="4.5" font-size="11.5">Tailwind</text></g></g></g>
     <g><animateTransform attributeName="transform" type="rotate" from="90 300 300" to="450 300 300" dur="40s" repeatCount="indefinite"/>
       <g transform="translate(525 300)"><g><animateTransform attributeName="transform" type="rotate" from="-90 0 0" to="-450 0 0" dur="40s" repeatCount="indefinite"/>
-        <circle r="33" fill="#0f1629" stroke="#bae6fd" stroke-width="2"/><text y="4.5">GitHub</text></g></g></g>
+        <circle r="33" fill="#161b22" stroke="#ffbbbb" stroke-width="2"/><text y="4.5">GitHub</text></g></g></g>
     <g><animateTransform attributeName="transform" type="rotate" from="180 300 300" to="540 300 300" dur="40s" repeatCount="indefinite"/>
       <g transform="translate(525 300)"><g><animateTransform attributeName="transform" type="rotate" from="-180 0 0" to="-540 0 0" dur="40s" repeatCount="indefinite"/>
-        <circle r="33" fill="#0f1629" stroke="#bae6fd" stroke-width="2"/><text y="4.5">Figma</text></g></g></g>
+        <circle r="33" fill="#161b22" stroke="#ffbbbb" stroke-width="2"/><text y="4.5">Figma</text></g></g></g>
     <g><animateTransform attributeName="transform" type="rotate" from="270 300 300" to="630 300 300" dur="40s" repeatCount="indefinite"/>
       <g transform="translate(525 300)"><g><animateTransform attributeName="transform" type="rotate" from="-270 0 0" to="-630 0 0" dur="40s" repeatCount="indefinite"/>
-        <circle r="33" fill="#0f1629" stroke="#bae6fd" stroke-width="2"/><text y="4.5">VS Code</text></g></g></g>
+        <circle r="33" fill="#161b22" stroke="#ffbbbb" stroke-width="2"/><text y="4.5">VS Code</text></g></g></g>
   </g>
 </svg>
-                                                                                                          
