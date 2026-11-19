@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/%F0%9F%A7%AD%20ABOUT-8b0000?style=for-the-badge" alt="About" /></a>
+  <a href="#-know-about-me"><img src="https://img.shields.io/badge/%F0%9F%A7%AD%20ABOUT-8b0000?style=for-the-badge" alt="About" /></a>
   <a href="#-how-i-build"><img src="https://img.shields.io/badge/%E2%9A%A1%20WORKFLOW-8b0000?style=for-the-badge" alt="Workflow" /></a>
   <a href="#️-core-toolkit"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%20TOOLKIT-8b0000?style=for-the-badge" alt="Toolkit" /></a>
 </p>
@@ -35,20 +35,21 @@
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## 🧭 About me
+## 🙋 Know about me
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="Terminal: whoami, focus, status" width="100%" />
+  <img src="assets/know.svg" alt="Know about me: Aiman, Rekayasa Perangkat Lunak. 1 year 6 months of coding, 15 tech and tools." width="100%" />
 </p>
 
-> Building useful things and learning in public.
+Halo! Saya Aiman, pelajar SMK jurusan Rekayasa Perangkat Lunak (RPL) yang sudah mendalami dunia koding selama 1 tahun 6 bulan. Selama menempuh pendidikan di jurusan ini, saya mulai tertarik mendalami pembuatan website dan aplikasi, terutama menggunakan Java, HTML, CSS, JavaScript, dan PHP. Tujuan saya saat ini adalah terus belajar, memperbanyak latihan proyek, dan mempersiapkan diri untuk menjadi seorang Web Developer atau pembuat aplikasi yang andal di industri teknologi.
 
-Frontend-leaning engineer who turns rough ideas into clean, fast, usable interfaces, and connects them to solid backends when a project needs it.
+<p align="center">
+  <img src="assets/skills.svg" alt="Java, HTML, CSS, JavaScript, PHP, Bootstrap, Tailwind, Laravel, React, Node.js, MySQL, Git, GitHub, VS Code, Figma" width="100%" />
+</p>
 
-- 🔭 **Building:** web apps with clean UI and real utility
-- 🌱 **Learning:** TypeScript, testing, performance, system design
-- 💬 **Ask me about:** frontend, UI details, shipping small projects
-- ⏰ **Timezone:** Asia/Jakarta (UTC+7)
+<p align="center">
+  <img src="assets/journey.svg" alt="Perjalanan: mulai koding, web dan aplikasi, latihan proyek, web developer" width="100%" />
+</p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
