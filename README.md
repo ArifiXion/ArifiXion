@@ -13,14 +13,14 @@
 </p>
 
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/%F0%9F%A7%AD%20ABOUT-4c1d95?style=for-the-badge" alt="About" /></a>
-  <a href="#-how-i-build"><img src="https://img.shields.io/badge/%E2%9A%A1%20WORKFLOW-4c1d95?style=for-the-badge" alt="Workflow" /></a>
-  <a href="#️-core-toolkit"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%20TOOLKIT-4c1d95?style=for-the-badge" alt="Toolkit" /></a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/%F0%9F%A7%AD%20ABOUT-0c4a6e?style=for-the-badge" alt="About" /></a>
+  <a href="#-how-i-build"><img src="https://img.shields.io/badge/%E2%9A%A1%20WORKFLOW-0c4a6e?style=for-the-badge" alt="Workflow" /></a>
+  <a href="#️-core-toolkit"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%20TOOLKIT-0c4a6e?style=for-the-badge" alt="Toolkit" /></a>
 </p>
 <p align="center">
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20PROJECTS-4c1d95?style=for-the-badge" alt="Projects" /></a>
-  <a href="#-activity"><img src="https://img.shields.io/badge/%F0%9F%93%8A%20ACTIVITY-4c1d95?style=for-the-badge" alt="Activity" /></a>
-  <a href="#-lets-connect"><img src="https://img.shields.io/badge/%F0%9F%A4%9D%20CONTACT-4c1d95?style=for-the-badge" alt="Contact" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20PROJECTS-0c4a6e?style=for-the-badge" alt="Projects" /></a>
+  <a href="#-activity"><img src="https://img.shields.io/badge/%F0%9F%93%8A%20ACTIVITY-0c4a6e?style=for-the-badge" alt="Activity" /></a>
+  <a href="#-lets-connect"><img src="https://img.shields.io/badge/%F0%9F%A4%9D%20CONTACT-0c4a6e?style=for-the-badge" alt="Contact" /></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arifixion&style=for-the-badge&label=TOTAL%20VISITS&color=8b5cf6&abbreviated=false" alt="Total profile visits" />
+  <img src="https://komarev.com/ghpvc/?username=arifixion&style=for-the-badge&label=TOTAL%20VISITS&color=38bdf8&abbreviated=false" alt="Total profile visits" />
 </p>
 
 </div>
@@ -55,7 +55,7 @@ Frontend-leaning engineer who turns rough ideas into clean, fast, usable interfa
 ## ⚡ How I build
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1e1038','primaryTextColor':'#ffffff','primaryBorderColor':'#8b5cf6','lineColor':'#8b5cf6','fontSize':'14px'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0f1a2e','primaryTextColor':'#ffffff','primaryBorderColor':'#38bdf8','lineColor':'#38bdf8','fontSize':'14px'}}}%%
 flowchart LR
     A([💡 Idea]) --> B[🎨 Design the UI]
     B --> C[⚙️ Build components]
@@ -103,8 +103,8 @@ flowchart LR
 <summary>📈 More stats (optional)</summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifixion&show_icons=true&theme=dark&hide_border=true&bg_color=0e0a1c&title_color=8b5cf6&icon_color=8b5cf6&text_color=d8d2ee" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifixion&layout=compact&theme=dark&hide_border=true&bg_color=0e0a1c&title_color=8b5cf6&text_color=d8d2ee" alt="Top languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arifixion&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e1a&title_color=38bdf8&icon_color=38bdf8&text_color=d6e4f5" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifixion&layout=compact&theme=dark&hide_border=true&bg_color=0a0e1a&title_color=38bdf8&text_color=d6e4f5" alt="Top languages" width="49%" />
 </p>
 
 </details>
@@ -118,8 +118,8 @@ flowchart LR
 </p>
 
 <p align="center">
-  <a href="https://github.com/arifixion"><img src="https://img.shields.io/badge/GitHub-1e1038?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/arifixion"><img src="https://img.shields.io/badge/GitHub-0f1a2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-0c4a6e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
