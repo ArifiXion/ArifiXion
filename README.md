@@ -5,7 +5,7 @@
 <img src="assets/ticker.svg" alt="Ship small, learn in public, useful over flashy" width="100%" />
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=arifixion&theme=retro&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=arifixion&theme=neon&style=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion hero visual" />
 </p>
 
 <p align="center">
@@ -13,14 +13,14 @@
 </p>
 
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/%F0%9F%A7%AD%20ABOUT-4c1d95?style=for-the-badge" alt="About" /></a>
-  <a href="#-how-i-build"><img src="https://img.shields.io/badge/%E2%9A%A1%20WORKFLOW-4c1d95?style=for-the-badge" alt="Workflow" /></a>
-  <a href="#️-core-toolkit"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%20TOOLKIT-4c1d95?style=for-the-badge" alt="Toolkit" /></a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/%F0%9F%A7%AD%20ABOUT-8b0000?style=for-the-badge" alt="About" /></a>
+  <a href="#-how-i-build"><img src="https://img.shields.io/badge/%E2%9A%A1%20WORKFLOW-8b0000?style=for-the-badge" alt="Workflow" /></a>
+  <a href="#️-core-toolkit"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%20TOOLKIT-8b0000?style=for-the-badge" alt="Toolkit" /></a>
 </p>
 <p align="center">
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20PROJECTS-4c1d95?style=for-the-badge" alt="Projects" /></a>
-  <a href="#-activity"><img src="https://img.shields.io/badge/%F0%9F%93%8A%20ACTIVITY-4c1d95?style=for-the-badge" alt="Activity" /></a>
-  <a href="#-lets-connect"><img src="https://img.shields.io/badge/%F0%9F%A4%9D%20CONTACT-4c1d95?style=for-the-badge" alt="Contact" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20PROJECTS-8b0000?style=for-the-badge" alt="Projects" /></a>
+  <a href="#-activity"><img src="https://img.shields.io/badge/%F0%9F%93%8A%20ACTIVITY-8b0000?style=for-the-badge" alt="Activity" /></a>
+  <a href="#-lets-connect"><img src="https://img.shields.io/badge/%F0%9F%A4%9D%20CONTACT-8b0000?style=for-the-badge" alt="Contact" /></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arifixion&style=for-the-badge&label=TOTAL%20VISITS&color=8b5cf6&abbreviated=false" alt="Total profile visits" />
+  <img src="https://komarev.com/ghpvc/?username=arifixion&style=for-the-badge&label=TOTAL%20VISITS&color=ff4444&abbreviated=false" alt="Total profile visits" />
 </p>
 
 </div>
@@ -55,7 +55,7 @@ Frontend-leaning engineer who turns rough ideas into clean, fast, usable interfa
 ## ⚡ How I build
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1e1038','primaryTextColor':'#ffffff','primaryBorderColor':'#8b5cf6','lineColor':'#8b5cf6','fontSize':'14px'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#2a0a0a','primaryTextColor':'#ffffff','primaryBorderColor':'#ff4444','lineColor':'#ff4444','fontSize':'14px'}}}%%
 flowchart LR
     A([💡 Idea]) --> B[🎨 Design the UI]
     B --> C[⚙️ Build components]
@@ -78,7 +78,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=arifixion&theme=retro&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion stack visual" />
+  <img src="https://www.gitskins.com/api/section/stack?username=arifixion&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion stack visual" />
 </p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -86,7 +86,7 @@ flowchart LR
 ## 🚀 Featured projects
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=arifixion&theme=retro&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion projects visual" />
+  <img src="https://www.gitskins.com/api/section/projects?username=arifixion&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion projects visual" />
 </p>
 
 > 📌 Tip: add a short description and a live demo link to every repo. Projects without one look unfinished.
@@ -96,15 +96,15 @@ flowchart LR
 ## 📊 Activity
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=arifixion&theme=retro" alt="arifixion contribution activity" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=arifixion&theme=satan" alt="arifixion contribution activity" />
 </p>
 
 <details>
 <summary>📈 More stats (optional)</summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifixion&show_icons=true&theme=dark&hide_border=true&bg_color=0e0a1c&title_color=8b5cf6&icon_color=8b5cf6&text_color=d8d2ee" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifixion&layout=compact&theme=dark&hide_border=true&bg_color=0e0a1c&title_color=8b5cf6&text_color=d8d2ee" alt="Top languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arifixion&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444&text_color=c9d1d9" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifixion&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&text_color=c9d1d9" alt="Top languages" width="49%" />
 </p>
 
 </details>
@@ -114,12 +114,12 @@ flowchart LR
 ## 🤝 Let's connect
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=arifixion&theme=retro&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion social visual" />
+  <img src="https://www.gitskins.com/api/section/social?username=arifixion&theme=&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion social visual" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/arifixion"><img src="https://img.shields.io/badge/GitHub-1e1038?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/arifixion"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-8b0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
