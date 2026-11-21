@@ -5,7 +5,7 @@
 <img src="assets/ticker.svg" alt="Ship small, learn in public, useful over flashy" width="100%" />
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=arifixion&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion hero visual" />
+  <img src="assets/hero.svg" alt="ArifiXion hero card: Xion, Aiman, RPL student at SMK" width="100%" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ Halo! Saya Aiman, pelajar SMK jurusan Rekayasa Perangkat Lunak (RPL) yang sudah 
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=arifixion&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion stack visual" />
+  <img src="assets/stack.svg" alt="Core toolkit grouped by languages, frontend, backend and database, and tools" width="100%" />
 </p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -63,7 +63,7 @@ Halo! Saya Aiman, pelajar SMK jurusan Rekayasa Perangkat Lunak (RPL) yang sudah 
 ## 🚀 Featured projects
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=arifixion&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion projects visual" />
+  <img src="assets/projects.svg" alt="Featured projects" width="100%" />
 </p>
 
 > 📌 Tip: add a short description and a live demo link to every repo. Projects without one look unfinished.
@@ -73,7 +73,7 @@ Halo! Saya Aiman, pelajar SMK jurusan Rekayasa Perangkat Lunak (RPL) yang sudah 
 ## 📊 Activity
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=arifixion&theme=satan" alt="arifixion contribution activity" />
+  <img src="assets/activity.svg" alt="Activity pulse" width="100%" />
 </p>
 
 <details>
@@ -91,7 +91,7 @@ Halo! Saya Aiman, pelajar SMK jurusan Rekayasa Perangkat Lunak (RPL) yang sudah 
 ## 🤝 Let's connect
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=arifixion&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351352228%3Fu%3D740ad6fbbba9bb93a69c846e2f0ecd36e3196d0b%26v%3D4" alt="arifixion social visual" />
+  <img src="assets/social.svg" alt="Let's connect: GitHub, email and LinkedIn" width="100%" />
 </p>
 
 <p align="center">
