@@ -5,7 +5,7 @@
 <img src="assets/ticker.svg" alt="Ship small, learn in public, useful over flashy" width="100%" />
 
 <p align="center">
-  <img src="assets/hero.svg" alt="ArifiXion hero card: Xion, Aiman, RPL student at SMK" width="100%" />
+  <img src="assets/hero.webp" alt="ArifiXion hero card: Xion, Aiman, RPL student at SMK" width="100%" />
 </p>
 
 <p align="center">
