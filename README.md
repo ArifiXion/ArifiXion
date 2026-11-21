@@ -48,8 +48,6 @@ Halo! Saya Aiman, pelajar SMK jurusan Rekayasa Perangkat Lunak (RPL) yang sudah 
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## 🛠️ Core toolkit
-
 <p align="center">
   <img src="assets/orbit.svg" alt="Animated orbit of technologies" width="100%" />
 </p>
@@ -60,35 +58,27 @@ Halo! Saya Aiman, pelajar SMK jurusan Rekayasa Perangkat Lunak (RPL) yang sudah 
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## 🚀 Featured projects
 
 <p align="center">
   <img src="assets/projects.svg" alt="Featured projects" width="100%" />
 </p>
 
-> 📌 Tip: add a short description and a live demo link to every repo. Projects without one look unfinished.
-
 <img src="assets/divider.svg" alt="" width="100%" />
-
-## 📊 Activity
 
 <p align="center">
   <img src="assets/activity.svg" alt="Activity pulse" width="100%" />
 </p>
 
 <details>
-<summary>📈 More stats (optional)</summary>
+More stats (optional)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arifixion&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff4444&text_color=c9d1d9" alt="GitHub stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifixion&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff4444&text_color=c9d1d9" alt="Top languages" width="49%" />
 </p>
-
 </details>
 
 <img src="assets/divider.svg" alt="" width="100%" />
-
-## 🤝 Let's connect
 
 <p align="center">
   <img src="assets/social.svg" alt="Let's connect: GitHub, email and LinkedIn" width="100%" />
